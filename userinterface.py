@@ -2784,7 +2784,7 @@ class DetailsDialog(QDialog):
             
             # Street View Image
             try:
-                api_key = "AIzaSyCR0nJhZTRbPgKn_r1tUqoQEN1JHAMcx3Q"
+                api_key = os.getenv("GMAP_API_KEY")
                 location = str(call_data[7])
                 street_view_url = f"https://maps.googleapis.com/maps/api/streetview?size=400x200&location={location}&key={api_key}"  # Reduced image size
                 
