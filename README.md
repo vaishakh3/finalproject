@@ -3,7 +3,7 @@
 A modern, intelligent, desktop-based **Emergency Response Management System** designed to empower emergency call centers with **real-time emotional intelligence, AI-based emergency classification, and dispatch coordination**.
 
 > 🏫 Final Year Project by  
-> **Vaishakh Suresh**, **Shereen Rafi**, **Vedika Aneesh**, and **Sooraj U S**  
+> **Vaishakh Suresh**, **Shereen Rafi**, **Vedika Aneesh**, **Gurupushpam M** and **Sooraj U S**  
 > 🎓 CSE 2021 Batch – Government College of Engineering, Kannur
 
 ---
