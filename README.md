@@ -94,7 +94,7 @@ Run the application:
 python userinterface.py
 ```
 
-**Acknowledgements**
+## Acknowledgements
 
 💡 Inspired by real-world emergency response challenges
 
@@ -104,7 +104,8 @@ python userinterface.py
 
 🧠 Emotional intelligence powered by Hume AI
 
-📸 Sneak Peek
+## 📸 Sneak Peek
+
 (Insert UI screenshots, architecture diagram, or GIF demo here if available)
 
 📫 Contact
