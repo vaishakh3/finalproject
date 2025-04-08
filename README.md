@@ -1,6 +1,6 @@
-# 🧠 Empathetic AI-Powered Emergency Call Center Assistant
+# 🧠 Empathetic AI-Powered Emergency Call Center Assistant for Disaster Response
 
-A modern, intelligent, desktop-based **Emergency Response Management System** designed to empower emergency call centers with **real-time emotional intelligence, AI-based emergency classification, and dispatch coordination**.
+A modern, intelligent, desktop-based **Emergency Response Management System** designed to empower emergency call centers with **real-time emotional intelligence, AI-based emergency classification, and dispatch coordination during Disasters**.
 
 > 🏫 Final Year Project by  
 > **Vaishakh Suresh**, **Shereen Rafi**, **Vedika Aneesh**, **Gurupushpam M** and **Sooraj U S**  
