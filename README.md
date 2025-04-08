@@ -92,14 +92,11 @@ Run the application:
 python userinterface.py
 ```
 
-🛡️ Acknowledgements
+**Acknowledgements**
 
 💡 Inspired by real-world emergency response challenges
-
 🤖 AI components powered by Google Generative AI and Groq LLMs
-
 🗺️ Mapping powered by Google Maps Platform
-
 🧠 Emotional intelligence powered by Hume AI
 
 📸 Sneak Peek
