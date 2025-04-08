@@ -49,14 +49,16 @@ This system revolutionizes the way emergency service operators handle distress c
 
 ## 🧠 Technical Stack
 
-| Component         | Technology                             |
-|------------------|-----------------------------------------|
-| Frontend          | PyQt5                                  |
-| Backend           | Python (Flask)                         |
-| Database          | SQLite                                 |
-| AI Engine         | Fine-tuned Gemini + Mistral (via Groq) |
-| Emotion Analysis  | Hume AI (EVI)                          |
-| Mapping           | Google Maps API + QWebEngineView       |
+| Component         | Technology                                               |
+|------------------|-----------------------------------------------------------|
+| Frontend          | PyQt5 (GUI Framework), PyQtWebEngine (for embedded maps) |
+| Backend           | Python (Core logic and APIs)                             |
+| Database          | SQLite                                                   |
+| AI Engine         | Fine-tuned Gemini (via Google GenAI API) + Mistral (via Groq) |
+| Emotion Analysis  | Hume AI (EVI - Empathic Voice Interface)                 |
+| Mapping           | Google Maps API (via QWebEngineView integration)         |
+| Networking        | `requests`, `json`, `threading` for API integration and async handling |
+
 
 ---
 
@@ -95,8 +97,11 @@ python userinterface.py
 **Acknowledgements**
 
 💡 Inspired by real-world emergency response challenges
+
 🤖 AI components powered by Google Generative AI and Groq LLMs
+
 🗺️ Mapping powered by Google Maps Platform
+
 🧠 Emotional intelligence powered by Hume AI
 
 📸 Sneak Peek
