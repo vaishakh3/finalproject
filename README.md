@@ -106,9 +106,18 @@ python userinterface.py
 
 ## 📸 Sneak Peek
 
-(Insert UI screenshots, architecture diagram, or GIF demo here if available)
+**Architecture**
+![Architecture](https://github.com/user-attachments/assets/d9240842-4a41-4cbc-9bdd-1f04707b055f)
+
+**Screenshots**
+
+![Screenshot from 2025-04-08 21-59-48](https://github.com/user-attachments/assets/93dfcde8-f667-4c4f-8188-442c74f914b8)
+![Screenshot from 2025-04-08 22-08-25](https://github.com/user-attachments/assets/d8814a9e-a709-446f-8980-3668bbd9bd50)
+![Screenshot from 2025-04-08 22-09-01](https://github.com/user-attachments/assets/daf8f903-a7f6-4cb5-b6fe-b82392f07fde)
+
 
 📫 Contact
 For queries or collaborations, feel free to reach out to any of the contributors or open an issue on this repository.
 
 Built with ❤️ by passionate engineers from GCE Kannur.
+
