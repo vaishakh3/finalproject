@@ -107,6 +107,7 @@ python userinterface.py
 ## 📸 Sneak Peek
 
 **Architecture**
+
 ![Architecture](https://github.com/user-attachments/assets/d9240842-4a41-4cbc-9bdd-1f04707b055f)
 
 **Screenshots**
@@ -117,7 +118,9 @@ python userinterface.py
 
 
 📫 Contact
+
 For queries or collaborations, feel free to reach out to any of the contributors or open an issue on this repository.
+
 
 Built with ❤️ by passionate engineers from GCE Kannur.
 
